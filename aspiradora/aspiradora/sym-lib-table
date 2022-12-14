@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name aspiradora-rescue)(type Legacy)(uri ${KIPRJMOD}/aspiradora-rescue.lib)(options "")(descr ""))
-)
